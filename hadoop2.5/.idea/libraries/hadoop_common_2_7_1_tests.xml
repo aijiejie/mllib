@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hadoop-common-2.7.1-tests">
+    <CLASSES>
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/common/hadoop-common-2.7.1-tests.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/common/hadoop-common-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/common/hadoop-nfs-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

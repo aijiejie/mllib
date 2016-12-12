@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-client-app-2.7.1">
+    <CLASSES>
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.1-tests.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.7.1.jar!/" />
+      <root url="jar://E:/xuexi/大数据/hadoop/hadoop阅读/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
